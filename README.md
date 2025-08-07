@@ -47,6 +47,18 @@ The **Automated Paperless Transparent College System** is a complete web platfor
 ### Database
 - MongoDB
 
+###Admin
+admin@sggs.ac.in
+Admin@123
+
+###faculty 
+pakle@sggs.ac.in
+pass@123
+
+###student
+2022bit022@sggs.ac.in
+pass@123
+
 ## Authors
 
 Developed by **Team Server Down**:
